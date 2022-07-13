@@ -2,7 +2,7 @@
 bjective: design electronic circuit to control servo and stepper and dc  motor by using some electronic components with Arduino
 used components: Arduino uno - Potentiometer - Servo motor - Stepper motor - dc motor - 9V Battery - H-bridge Motor Driver - wires - Breadboard
 Attached files: circuit View - the arduino code - Schematic View 
-NOTE the Dc and stepper motor there is a Potentiometer act as a button so we can control the motor by adjusting the potentiometer.
+NOTE in the Dc and stepper motor circuits  there is a Potentiometer act as a button to control the motor rotation by adjusting the potentiometer.
 
 Servo motor code: 
 #include <Servo.h>
